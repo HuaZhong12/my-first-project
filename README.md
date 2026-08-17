@@ -1,2 +1,2 @@
 # my-first-project
-how to use Github
+I am stiudying that how to use Github
